@@ -42,6 +42,15 @@ Nansen: Nansen is a blockchain data analytics platform that provides insights in
 
 Token Terminal: Token Terminal is a blockchain data analytics platform that provides insights into the financial performance of cryptocurrency projects. The platform uses blockchain data to track revenue streams, expenses, and other financial metrics, enabling investors to evaluate the viability of different projects.
 
+DappRadar - DappRadar is a platform that tracks the usage and adoption of decentralized applications (dapps) on various blockchain platforms. This data can be used by investors, developers, and other stakeholders to make informed decisions about where to invest their time and money in the blockchain industry.
+
+DeFiLlama - DeFiLlama is a DeFi (decentralized finance) dashboard that aggregates data from various DeFi protocols and displays it in an easy-to-understand format. This allows users to monitor the performance of their DeFi investments in real-time and make informed decisions about when to buy or sell.
+
+Debank - Debank is a blockchain data analytics platform that provides users with insights into various DeFi protocols and decentralized exchanges (DEXs). This data can be used to monitor the health of different DeFi projects and assess their investment potential.
+
+
+Messari - Messari is a platform that provides market data, research, and insights into various blockchain projects and cryptocurrencies. Their data can be used by investors, developers, and other stakeholders to stay informed about the latest developments in the blockchain industry.
+
 SlowMist: SlowMist is a blockchain security company that uses blockchain data to identify and prevent security breaches. The company's platform provides real-time monitoring of blockchain networks, helping to detect and mitigate threats such as hacking and fraud.
 
 These companies are just a few examples of the many innovative companies that are using blockchain data analytics to solve real-world problems in finance. As blockchain technology continues to evolve, we can expect to see even more companies leveraging the power of blockchain data to create new applications and services.
